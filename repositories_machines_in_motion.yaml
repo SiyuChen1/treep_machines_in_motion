@@ -175,7 +175,7 @@ mim_ddp:
     branch: main
 reactive_planners:
     path: src/
-    origin: mim
+    origin: mim_modified
 
 # -----------------------------------------------------------------------------
 # Robot Drivers and Firmware

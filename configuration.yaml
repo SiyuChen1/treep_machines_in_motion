@@ -3,6 +3,10 @@ origin_prefixes:
     ssh-mim: 'git@github.com:machines-in-motion/'
     https-mim: 'https://github.com/machines-in-motion/'
 
+    mim_modified: 'git@github.com:SiyuChen1/'
+    ssh-mim_modified: 'git@github.com:SiyuChen1/'
+    https-mim_modified: 'https://github.com/SiyuChen1/'
+
     odri: 'git@github.com:open-dynamic-robot-initiative/'
     ssh-odri: 'git@github.com:open-dynamic-robot-initiative/'
     https-odri: 'https://github.com/open-dynamic-robot-initiative/'
